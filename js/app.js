@@ -6109,4 +6109,142 @@
     window["FLS"] = true;
     isWebp();
     menuInit();
+
+    const blogPosts = [
+      {
+        id: 0,
+        title: "Peran Bahasa Indonesia sebagai Wujud Bela Negara di Era Digital:",
+        subtitle: "Membentuk Generasi Z sebagai Garda Terdepan Bangsa",
+        readingTitle: "Mari Membaca",
+        paragraphs: [
+          `Pekanbaru, 27 Juni 2026 – Mahasiswa Kelompok 1 Program Studi Teknik Informatasi, Fakultas Ilmu Komputer, Universitas Muhammadiyah Riau melaksanakan kegiatan sosialisasi bertema "Peran Bahasa Indonesia sebagai Bentuk Bela Negara di Era Digital: Membentuk Generasi Z sebagai Garda Terdepan Bangsa" di SMK Muhammadiyah 2 Pekanbaru pada Sabtu, 27 Juni 2026, pukul 09.30 WIB. Kegiatan ini merupakan bagian dari implementasi pembelajaran Mata Kuliah Bahasa Indonesia yang diampu oleh Kiki Elviora, S.Pd., M.Pd., dengan tujuan menanamkan nilai-nilai kebangsaan melalui penggunaan Bahasa Indonesia yang baik dan benar di tengah pesatnya perkembangan teknologi digital.`,
+          `Era digital telah menghadirkan berbagai kemudahan dalam memperoleh dan menyebarkan informasi. Namun, di balik kemajuan tersebut, muncul tantangan yang harus dihadapi oleh Generasi Z, seperti maraknya penyebaran hoaks, ujaran kebencian, perundungan siber, hingga menurunnya kesadaran dalam menggunakan Bahasa Indonesia yang sesuai kaidah. Kondisi ini menunjukkan bahwa bela negara tidak lagi hanya dimaknai sebagai upaya mempertahankan kedaulatan secara fisik, tetapi juga diwujudkan melalui perilaku bijak, bertanggung jawab, dan menjunjung tinggi identitas bangsa dalam ruang digital.`,
+          `Melalui kegiatan sosialisasi ini, mahasiswa memberikan pemahaman bahwa Bahasa Indonesia merupakan salah satu identitas nasional yang harus dijaga dan dilestarikan. Penggunaan bahasa yang santun, benar, dan bertanggung jawab di media sosial merupakan bentuk nyata kontribusi generasi muda dalam menjaga persatuan bangsa. Selain itu, peserta diajak untuk memahami pentingnya menyaring informasi sebelum membagikannya, menghargai perbedaan pendapat, serta menggunakan media digital sebagai sarana menyebarkan konten yang edukatif dan inspiratif.`,
+          `Sasaran kegiatan ini adalah anggota PaskaMuda/Paskibra SMK Muhammadiyah 2 Pekanbaru, yang dikenal sebagai pelajar dengan semangat disiplin, nasionalisme, dan kepemimpinan. Selama kegiatan berlangsung, peserta menunjukkan antusiasme yang tinggi melalui sesi diskusi interaktif, tanya jawab, dan penyampaian pendapat mengenai tantangan yang dihadapi Generasi Z dalam menjaga semangat bela negara di era digital. Interaksi tersebut menjadi ruang bagi peserta untuk memperluas wawasan sekaligus memperkuat kesadaran bahwa setiap individu memiliki peran penting dalam menjaga keutuhan bangsa melalui tindakan sederhana yang dimulai dari penggunaan bahasa yang baik dan perilaku positif di dunia maya.`,
+          `Kegiatan ini juga bertujuan membuka pola pikir peserta mengenai makna bela negara yang lebih luas. Bela negara tidak hanya diwujudkan melalui pengabdian di bidang pertahanan, tetapi juga melalui prestasi akademik, kepedulian terhadap lingkungan sosial, kemampuan berpikir kritis dalam menghadapi informasi digital, serta komitmen untuk menjaga nilai-nilai kebangsaan dalam kehidupan sehari-hari. Dengan demikian, Generasi Z diharapkan mampu menjadi agen perubahan yang tidak hanya cakap dalam memanfaatkan teknologi, tetapi juga memiliki karakter, integritas, dan rasa cinta tanah air yang kuat.`
+        ]
+      },
+      {
+        id: 1,
+        title: "Dampak Media Sosial terhadap Penggunaan Bahasa Indonesia di Kalangan Gen Z",
+        subtitle: "Menjaga Identitas Bangsa di Era Digital",
+        readingTitle: "Baca Artikel",
+        paragraphs: [
+          `Media sosial telah menjadi bagian tak terpisahkan dari kehidupan sehari-hari Generasi Z. Platform seperti Instagram, TikTok, dan Twitter tidak hanya digunakan untuk berkomunikasi, tetapi juga menjadi ruang berekspresi dan berkreasi. Namun, fenomena ini membawa dampak signifikan terhadap penggunaan Bahasa Indonesia yang baik dan benar.`,
+          `Singkatan, bahasa gaul, dan campur kode dengan bahasa asing semakin marak digunakan dalam interaksi digital. Hal ini menimbulkan kekhawatiran akan tergerusnya kemampuan Generasi Z dalam menggunakan Bahasa Indonesia sesuai kaidah yang berlaku. Penggunaan bahasa yang tidak terstruktur dan cenderung sembarangan dapat mengurangi kualitas komunikasi dan pemahaman antarpengguna.`,
+          `Meskipun demikian, media sosial juga dapat menjadi alat yang efektif untuk melestarikan Bahasa Indonesia. Konten-konten edukatif tentang bahasa, puisi, cerpen, dan tulisan kreatif lainnya dapat dengan mudah diakses dan disebarluaskan melalui platform digital. Tantangannya adalah bagaimana mengarahkan kreativitas Generasi Z ke arah yang positif.`,
+          `Peran pendidik dan orang tua sangat penting dalam membimbing Generasi Z untuk tetap menggunakan Bahasa Indonesia yang baik dan benar di media sosial. Kampanye literasi digital yang menarik dan relevan dengan keseharian mereka dapat menjadi solusi jangka panjang untuk menjaga eksistensi Bahasa Indonesia di era digital.`
+        ]
+      },
+      {
+        id: 2,
+        title: "Literasi Digital: Bentuk Bela Negara Generasi Z di Era Informasi",
+        subtitle: "Cerdas Bermedia, Kuat Berbangsa",
+        readingTitle: "Selengkapnya",
+        paragraphs: [
+          `Di era informasi yang serba cepat, kemampuan literasi digital menjadi salah satu keterampilan paling krusial yang harus dimiliki oleh Generasi Z. Literasi digital tidak hanya mencakup kemampuan teknis dalam menggunakan perangkat teknologi, tetapi juga kemampuan untuk mengakses, menganalisis, dan mengevaluasi informasi secara kritis.`,
+          `Kemampuan menyaring informasi menjadi sangat penting mengingat maraknya penyebaran berita palsu atau hoaks di berbagai platform digital. Generasi Z sebagai digital native memiliki tanggung jawab moral untuk tidak hanya menjadi konsumen informasi yang cerdas, tetapi juga menjadi penyebar informasi yang bertanggung jawab.`,
+          `Bela negara di era digital dapat diwujudkan melalui tindakan sederhana seperti memverifikasi kebenaran informasi sebelum membagikannya, tidak menyebarkan ujaran kebencian, serta menggunakan media sosial untuk menyebarkan konten-konten positif dan edukatif. Hal ini sejalan dengan semangat Nasionalisme yang harus terus dipupuk di kalangan generasi muda.`,
+          `Dengan meningkatkan literasi digital, Generasi Z dapat menjadi garda terdepan dalam menjaga keutuhan bangsa di ruang digital. Mereka tidak hanya akan menjadi pengguna teknologi yang cerdas, tetapi juga warga negara yang bertanggung jawab dan memiliki rasa cinta tanah air yang kuat.`
+        ]
+      }
+    ];
+
+    let currentArticle = 0;
+
+    function buildBlogNav() {
+      const list = document.querySelector(".action-header__blog-list");
+      if (!list) return;
+      list.innerHTML = blogPosts.map((post, i) =>
+        `<li class="action-header__blog-item${i === currentArticle ? " active" : ""}" data-article="${i}">
+          <span class="action-header__blog-link">${post.title}</span>
+        </li>`
+      ).join("");
+    }
+
+    function switchArticle(index) {
+      const post = blogPosts[index];
+      if (!post || index === currentArticle) return;
+
+      const heroTitle = document.getElementById("blogHeroTitle");
+      const heroSubtitle = document.getElementById("blogHeroSubtitle");
+      const readingTitle = document.getElementById("blogReadingTitle");
+      const content = document.getElementById("blogContent");
+
+      if (heroTitle) heroTitle.textContent = post.title;
+      if (heroSubtitle) heroSubtitle.textContent = post.subtitle;
+      if (readingTitle) readingTitle.textContent = post.readingTitle;
+      if (content) {
+        content.innerHTML = post.paragraphs.map(p => `<p>${p}</p>`).join("");
+      }
+
+      currentArticle = index;
+
+      document.querySelectorAll(".action-header__blog-item").forEach(el => {
+        el.classList.toggle("active", parseInt(el.dataset.article) === index);
+      });
+
+      const blogWrap = document.querySelector(".action-header__blog");
+      if (blogWrap) blogWrap.classList.remove("action-header__blog--open");
+
+      if (typeof ScrollTrigger_ScrollTrigger !== "undefined") {
+        ScrollTrigger_ScrollTrigger.getAll().forEach(st => {
+          if (st.vars.trigger && st.vars.trigger.classList && st.vars.trigger.classList.contains("title")) {
+            st.kill();
+          }
+        });
+      }
+
+      if (typeof Splitting !== "undefined") {
+        Splitting();
+      }
+
+      if (typeof gsapWithCSS !== "undefined" && typeof ScrollTrigger_ScrollTrigger !== "undefined") {
+        gsapWithCSS.utils.toArray(".title").forEach(title => {
+          const chars = title.querySelectorAll(".char");
+          if (chars.length) {
+            gsapWithCSS.timeline({
+              scrollTrigger: {
+                trigger: title,
+                start: "top 80%",
+                end: "70% 80%",
+                toggleActions: "play none none none"
+              }
+            }).from(chars, {
+              opacity: 0,
+              yPercent: 70,
+              stagger: .07,
+              ease: "back.out",
+              duration: .5
+            });
+          }
+        });
+      }
+
+      if (typeof ScrollTrigger_ScrollTrigger !== "undefined") {
+        ScrollTrigger_ScrollTrigger.refresh();
+      }
+    }
+
+    buildBlogNav();
+
+    const blogBtn = document.querySelector(".action-header__blog-btn");
+    if (blogBtn) {
+      blogBtn.addEventListener("click", (e) => {
+        e.stopPropagation();
+      });
+    }
+
+    document.addEventListener("click", () => {
+      const blogWrap = document.querySelector(".action-header__blog");
+      if (blogWrap) blogWrap.classList.remove("action-header__blog--open");
+    });
+
+    document.addEventListener("click", (e) => {
+      const item = e.target.closest(".action-header__blog-item");
+      if (item) {
+        const index = parseInt(item.dataset.article);
+        if (!isNaN(index)) switchArticle(index);
+      }
+    });
 })();
